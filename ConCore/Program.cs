@@ -19,7 +19,7 @@ namespace ConCore
             {
                 key = Console.ReadKey();
             }
-
+// End
         }
     }
 }
